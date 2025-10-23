@@ -11,6 +11,7 @@ GIT = **Global information tracker**
 
 2.    Definitie
 a.    Leg het concept uit in je eigen woorden
+
 **Git is een gedistribueerd versiebeheersysteem.** Helpt je geschiedenis ven je bestanden bij te houden door je aanpassingen op te slaan in een ander bestand.
 
 b.    Hoe draagt GIT bij aan de functionaliteit van het internet?
@@ -32,7 +33,11 @@ Wanneer een hacker toegang krijgt tot een Git-repository, kunnen de volgende geg
 
 #Belangrijke Git-commando’s en wat ze doen
 Git-init: start git in een project
+
 Git clone: kopieert een project van internet naar je computer
+
 Git add: Zet bestanden klaar om op te slaan.
+
 Git commit: sla je veranderingen op met een bericht.
+
 Git push: Zet je veranderingen online.
